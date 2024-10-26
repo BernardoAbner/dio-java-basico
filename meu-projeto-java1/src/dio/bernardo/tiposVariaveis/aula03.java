@@ -8,6 +8,10 @@ public class aula03 {
     int numeroNormal = numeroCurto;
     short numeroCurto2 = (short) numeroNormal;
 
+    System.out.print(salarioMinimo);
+    System.out.print(numeroCurto2);
+
+
     int numero = 5;
     numero = 10;
     
